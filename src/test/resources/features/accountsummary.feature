@@ -1,3 +1,4 @@
+@smoke
 Feature: Account Summary Tab Functionality
 
   Background: Login steps
